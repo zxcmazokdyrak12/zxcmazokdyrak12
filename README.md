@@ -1,8 +1,8 @@
 ### Hi there!
-Im gazel)
-  I currently working on portfolio. Im Hexlet student.
-  Im currently learning Python.
-  reach me @zxcspooky
+Im dayn
+  I currently working on portfolio. Im Hexlet student(bruh).
+  Im currently learning Python/html/css.
+  reach me @ttttake
   &#128139;
   
   
