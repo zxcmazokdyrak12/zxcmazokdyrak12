@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="https://githubusercontent.com" alt="Tokyo Ghoul Banner" />
+  <br>
+  <em>"I see you have a pure, fragile heart."</em>
+</p>
+
 # Hi there, I'm Max! 👋
 **Fullstack Developer | Student at Hexlet College**
 
