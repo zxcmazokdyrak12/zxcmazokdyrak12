@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://githubusercontent.com" alt="Tokyo Ghoul Banner" />
+  <img src="image_BRve_8.png" alt="Tokyo Ghoul Banner" />
   <br>
   <em>"I see you have a pure, fragile heart."</em>
 </p>
