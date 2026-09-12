@@ -41,4 +41,4 @@ I am a passionate Fullstack Developer focused on building high-performance web a
 ### 📫 Connect with me
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ttttake)
-[![Resume](https://img.shields.io/badge/Resume-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](ССЫЛКА_НА_ТВОЁ_РЕЗЮМЕ)
+[![Resume](https://img.shields.io/badge/Resume-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)]((https://github.com/zxcmazokdyrak12/zxcmazokdyrak12/blob/main/Max_fullstack_resume.pdf))
