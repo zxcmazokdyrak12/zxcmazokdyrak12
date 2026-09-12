@@ -7,6 +7,8 @@
 # Hi there, I'm Max! 👋
 **Fullstack Developer | Student at Hexlet College**
 
+![Open to Work](https://img.shields.io/badge/Open%20to%20Work-Internship%2FJunior-brightgreen?style=for-the-badge)
+
 I am a passionate Fullstack Developer focused on building high-performance web applications with clean architecture and strict type safety. Currently polishing my portfolio and preparing for junior/internship roles.
 
 ---
@@ -39,3 +41,4 @@ I am a passionate Fullstack Developer focused on building high-performance web a
 ### 📫 Connect with me
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ttttake)
+[![Resume](https://img.shields.io/badge/Resume-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](ССЫЛКА_НА_ТВОЁ_РЕЗЮМЕ)
