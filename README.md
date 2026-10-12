@@ -26,6 +26,7 @@ I am a passionate Fullstack Developer focused on building high-performance web a
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
@@ -33,6 +34,7 @@ I am a passionate Fullstack Developer focused on building high-performance web a
 
 ### 🪚 Featured Projects
 
+* **[The Mandela Catalogue — Fan Game](https://github.com/zxcmazokdyrak12/the-mandela-catalogue)** · [▶ Play on itch.io](https://spookytake.itch.io/the-mandela-catalogue) — A short first-person PSX-style analog horror game in Unity 6 (URP, C#). Three nights and the days between, each with its own mechanics: a threat system with counter-actions, hiding and noise meters, a working in-game laptop desktop, a custom PSX vertex-snapping shader with dithered post-processing, EN/RU localization and save slots.
 * **[Chainsaw Chat](https://github.com/zxcmazokdyrak12/chainsaw-chat)** — A highly stylized TypeScript Real-Time Chat inspired by Chainsaw Man. Features live audio streaming via WebSockets, reactive text effects, and strict type safety.
 * **[Vagabond Anime Tracker](https://github.com/zxcmazokdyrak12/vagabond-anime-tracker)** — An interactive web experience built around a warrior's path philosophy. Features raw SQL optimizations, robust Jikan API 3-step automatic retry framework, and custom ink-wash aesthetic UI.
 
